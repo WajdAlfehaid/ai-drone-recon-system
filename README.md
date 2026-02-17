@@ -1,5 +1,5 @@
 # Real-Time Semantic Segmentation & Threat Monitoring System
-**Sentinel System v3.1 | AI-Powered Drone HUD**
+**AI-Powered Drone HUD**
 
 **Author:** Wajd Alfehaid  
 **Script Name:** `drone_recon.py`  
